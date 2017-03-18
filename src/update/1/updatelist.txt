@@ -1,0 +1,7 @@
+*	NULL	新增文件夹A
+*	NULL	新增文件夹A/新增文件夹B
++	新增或替换文件A.txt	新增文件夹A/新增或替换文件A.txt
++	新增或替换文件B.txt	新增或替换文件B.txt
+-	NULL	删除文件C.txt
+/	NULL	删除文件夹A
++	version.txt	version
